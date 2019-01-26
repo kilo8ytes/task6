@@ -1,0 +1,4 @@
+{
+  "name": "kilo8ytes/task6",
+  "autoload": {"psr-4" : {"Kilo8ytes\\Task6\\" : "src"}}
+}
